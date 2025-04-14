@@ -71,7 +71,7 @@ class PortfolioAnalyser:
         print(f"Average Asset Correlation;{avg_corr}")
         print(f"Diversification Score;{diversification_score}")
 
-df = pd.read_csv('holdings.csv')
+df = pd.read_csv('your_portfolio.csv')
 
 analyzer = PortfolioAnalyser(df)
 analyzer.calculate_diversification_score()
