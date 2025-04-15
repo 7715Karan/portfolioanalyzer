@@ -21,4 +21,8 @@ Features Implemented
 4. Portfolio Volatility
 - Computes portfolio volatility based on daily returns and weight allocation.
 - Uses historical close price data.
-- Formula:
+
+5. Visualization:
+- Pie Diagram for assest allocation
+- Correlation of stock with nifty Index
+- Stock Volatility Heatmap
