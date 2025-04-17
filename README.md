@@ -26,3 +26,7 @@ Features Implemented
 - Pie Diagram for assest allocation
 - Correlation of stock with nifty Index
 - Stock Volatility Heatmap
+
+6. Plot correlation and assets allocation
+
+8. Monte Carlo Simulation
